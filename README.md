@@ -60,13 +60,12 @@ You can also right-click `main.dart` and choose **Run 'main.dart'** once configu
 
 ## Example Screenshots
 
-You can capture screenshots from:
 
 - `welcome_screen.dart`
 - `home_screen.dart`
 - `cart_screen.dart`
 
-And place them under `screenshots/` folder to include in your documentation:
+
 
 ``
 ![Welcome Page](screenshots/welcome.png)
