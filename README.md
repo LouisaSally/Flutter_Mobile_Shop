@@ -79,4 +79,4 @@ And place them under `screenshots/` folder to include in your documentation:
 
 Github Link:
 
-copy your github url here
+(https://github.com/LouisaSally/Flutter_Mobile_Shop/)
